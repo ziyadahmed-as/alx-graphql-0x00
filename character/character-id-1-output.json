@@ -1,0 +1,12 @@
+{
+"data": {
+    "character": {
+        "id": "1",
+        "name": "Hasfa Said",
+        "status": "Alive",
+        "species": "Human",
+        "type": "",
+        "gender": "female"
+        }
+    }
+}

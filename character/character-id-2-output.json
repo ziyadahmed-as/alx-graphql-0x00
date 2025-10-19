@@ -1,0 +1,12 @@
+{
+"data": {
+        "character": {
+        "id": "2",
+        "name": "Ziyad Ahmed",
+        "status": "Alive",
+        "species": "Human",
+        "type": "Black",
+        "gender": "Male"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+"data": {
+    "character": {
+        "id": "4",
+        "name": "Game Ahmed",
+        "status": "Alive",
+        "species": "Human",
+        "type": " Yellow",
+        "gender": "Male"
+        }
+    }
+}
