@@ -1,0 +1,9 @@
+# Query to fetch episode with id 3
+query GetEpisodeById {
+episode(id: 3) {
+id
+name
+air_date
+episode
+}
+}
