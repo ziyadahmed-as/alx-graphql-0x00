@@ -1,0 +1,11 @@
+# Query to fetch list of characters on page 4
+query GetCharactersPage4 {
+characters(page: 4) {
+    results {
+        id
+        name
+        status
+        image
+        }
+    }
+}
